@@ -1,0 +1,224 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-03-14 09:44-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+msgid "Accounts"
+msgstr "Contas"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Billing id"
+msgstr "Bilhetagem"
+
+msgid "Billings"
+msgstr "Bilhetagens"
+
+msgid "Btn payment"
+msgstr "Botão de pagamento"
+
+msgid "Cities"
+msgstr "Cidades"
+
+msgid "City id"
+msgstr "Cidade"
+
+msgid "Client id"
+msgstr "Cliente"
+
+msgid "Clients"
+msgstr "Clientes"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Complement"
+msgstr "Complemento"
+
+msgid "Consumed"
+msgstr "Consumido"
+
+msgid "Contact name"
+msgstr "Nome do contato"
+
+msgid "Contract id"
+msgstr "Contrato"
+
+msgid "Contracts"
+msgstr "Contratos"
+
+msgid "Corporate name"
+msgstr "Razão social"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Doc"
+msgstr "Documento"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Entities"
+msgstr "Consultas"
+
+msgid "Expire"
+msgstr "Expira"
+
+msgid "Fancy name"
+msgstr "Nome fantasia"
+
+msgid "Given name"
+msgstr "Apelido"
+
+msgid "Group id"
+msgstr "Grupo"
+
+msgid "Index"
+msgstr "Índice"
+
+msgid "Infinite"
+msgstr "Infinito"
+
+msgid "Landline"
+msgstr "Tel. Fixo"
+
+msgid "Locator"
+msgstr "Localizador"
+
+msgid "Mobile"
+msgstr "Tel. Móvel"
+
+msgid "Municipal inscription"
+msgstr "Inscrição municipal"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Neighborhood"
+msgstr "Bairro"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Package id"
+msgstr "Pacote"
+
+msgid "Packages"
+msgstr "Pacotes"
+
+msgid "Paid"
+msgstr "Pago"
+
+msgid "Partners"
+msgstr "Colaboradores"
+
+msgid "Picture"
+msgstr "Foto"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Price id"
+msgstr "Preço"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Projects"
+msgstr "Projetos"
+
+msgid "Qt queries"
+msgstr "Qt consultas"
+
+msgid "Queries"
+msgstr "Consultas"
+
+msgid "Query"
+msgstr "Consulta"
+
+msgid "Responsible partner"
+msgstr "Sócio responsável"
+
+msgid "Responsible partner cpf"
+msgstr "CPF do sócio responsável"
+
+msgid "Responsible partner cpf2"
+msgstr "CPF do sócio responsável 2"
+
+msgid "Responsible partner id"
+msgstr "RG do sócio responsável"
+
+msgid "Responsible partner id issued"
+msgstr "Org. Emissor RG Sócio Responsável"
+
+msgid "Responsible partner id issued date"
+msgstr "Dt. emissão RG Sócio Responsável"
+
+msgid "Responsible partner id issued date2"
+msgstr "Dt. emissão RG Sócio Responsável 2"
+
+msgid "Responsible partner id issued2"
+msgstr "Org. Emissor RG Sócio Responsável 2"
+
+msgid "Responsible partner id2"
+msgstr "RG do sócio responsável 2"
+
+msgid "Responsible partner2"
+msgstr "Sócio responsável 2"
+
+msgid "Skills"
+msgstr "Habilidades"
+
+msgid "State id"
+msgstr "Estado"
+
+msgid "State inscription"
+msgstr "Inscrição estadual"
+
+msgid "States"
+msgstr "Estados"
+
+msgid "Street"
+msgstr "Rua"
+
+msgid "Tp search"
+msgstr "Tipo da consulta"
+
+msgid "Translations"
+msgstr "Traduções"
+
+msgid "User id"
+msgstr "Usuário"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Validity"
+msgstr "Validade"
+
+msgid "Validity days"
+msgstr "Dias de validade"
+
+msgid "Zipcode"
+msgstr "CEP"
+
