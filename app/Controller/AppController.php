@@ -182,7 +182,6 @@ class AppController extends Controller {
     				),
     			'scope' => array(
     				'User.status' => 1,
-    				'User.expire >' => date('Y-m-d')
     				)
     			)
     		);

@@ -21,11 +21,9 @@ echo $this->Html->script(array('plugins/datepicker/bootstrap-datepicker'), array
             echo $this->AppForm->input('group_id', array('class' => 'chosen-select'));
             echo $this->AppForm->input('name');
             echo $this->AppForm->input('given_name');
-            echo $this->AppForm->input('expire');
             echo $this->AppForm->input('email');
             echo $this->AppForm->input('password');
             echo $this->AppForm->input('picture');
-            echo $this->AppForm->input('infinite', array('class' => 'icheck-me', 'data-skin' => 'square', 'data-color' => 'blue'));
             echo $this->AppForm->input('status', array('class' => 'icheck-me', 'data-skin' => 'square', 'data-color' => 'blue'));
 
             echo $this->AppForm->btn('Salvar Alterações');

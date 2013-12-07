@@ -20,7 +20,7 @@ $menu = array(
     * Produtos
     */
     array(
-        'label' => '<span>Projeto</span>', 
+        'label' => '<span>Projetos</span>', 
         'url' => array('controller' => 'projects')
         ),
 
